@@ -1,16 +1,15 @@
-## Hi there 👋
+# Über mich
 
-<!--
-**LindtAna/LindtAna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Fachinformatikerin für Anwendungsentwicklung mit IHK-Abschluss.  
+Seit 2024 realisiere ich eigene Web- und Frontend-Projekte, in denen ich moderne Technologien und agile Arbeitsweisen kombiniere. Mein Fokus liegt auf intuitiven, performanten Benutzeroberflächen und modularen Code-Architekturen.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Kategorie               | Technologien                                      |
+|-------------------------|---------------------------------------------------|
+| Programmiersprachen     | JavaScript, TypeScript, JSX                       |
+| Frameworks & Bibliotheken | React.js, Angular, Zustand, GSAP                 |
+| Styling                 | CSS, SCSS, Tailwind CSS, Bootstrap                |
+| Build-Tools & Workflows | Vite, Minista, PostCSS, BEM                       |
+| Versionskontrolle       | Git                                               |
+
