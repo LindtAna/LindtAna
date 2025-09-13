@@ -5,7 +5,7 @@ Seit 2024 realisiere ich eigene Web- und Frontend-Projekte, in denen ich moderne
 Mein Fokus liegt auf intuitiven, performanten Benutzeroberflächen und modularen Code-Architekturen.
 
 Meine Projekte sind stets mit klarer Dokumentation versehen, sodass der Einstieg mühelos gelingt.  
-Mein Code ist kommentiert, sodass weder ich noch andere in ein paar Monaten rätselraten müssen.
+Mein Code ist kommentiert, sodass er sich auch noch in ein paar Monaten nachvollziehen lässt.
 
 ## Tech Stack
 
