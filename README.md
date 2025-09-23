@@ -12,8 +12,8 @@ Mein Code ist kommentiert, sodass er sich auch noch in ein paar Monaten nachvoll
 | Kategorie               | Technologien                                      |
 |-------------------------|---------------------------------------------------|
 | Programmiersprachen     | JavaScript, TypeScript, JSX                       |
-| Frameworks & Bibliotheken | React.js, Angular, Zustand, GSAP                 |
+| Frameworks & Bibliotheken | React.js, React Native , Zustand, GSAP, Angular |
 | Styling                 | CSS, SCSS, Tailwind CSS, Bootstrap                |
-| Build-Tools & Workflows | Vite, Minista, PostCSS, BEM                       |
+| Build-Tools & Workflows | Vite, Minista, Expo, PostCSS, BEM                 |
 | Versionskontrolle       | Git                                               |
 
