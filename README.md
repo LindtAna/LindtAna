@@ -13,7 +13,7 @@ Mein Code ist kommentiert, sodass er sich auch noch in ein paar Monaten nachvoll
 |-------------------------|---------------------------------------------------|
 | Programmiersprachen     | JavaScript, TypeScript, JSX                       |
 | Frameworks & Bibliotheken | React.js, React Native , Zustand, GSAP, Angular |
-| Styling                 | CSS, SCSS, Tailwind CSS, Bootstrap                |
+| Styling                 | CSS, SCSS, TailwindCSS, Bootstrap                |
 | Build-Tools & Workflows | Vite, Minista, Expo, PostCSS, BEM                 |
 | Versionskontrolle       | Git                                               |
 
