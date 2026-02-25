@@ -9,11 +9,30 @@ Mein Code ist kommentiert, sodass er sich auch noch in ein paar Monaten nachvoll
 
 ## Tech Stack
 
-| Kategorie               | Technologien                                      |
-|-------------------------|---------------------------------------------------|
-| Programmiersprachen     | JavaScript, TypeScript, JSX                       |
-| Frameworks & Bibliotheken | React.js, React Native , Zustand, GSAP, Angular |
-| Styling                 | CSS, SCSS, TailwindCSS, Bootstrap                |
-| Build-Tools & Workflows | Vite, Minista, Expo, PostCSS, BEM                 |
-| Versionskontrolle       | Git                                               |
+| Kategorie               | Technologien                                           |
+|-------------------------|--------------------------------------------------------|
+|                         |                                                        |
+| Frontend                | React 18/19 / React Router/ Zustand / TypeScript       |
+|                         | / JavaScript (ES6+) / HTML5 / CSS3 / Tailwind CSS/     |
+|                         |  SCSS/Sass / PostCSS / GSAP / Vite / Minista / Webpack |
+|-------------------------|--------------------------------------------------------|
+|                         |                                                        |
+| Backend                 | Node.js /Express.js / MongoDB (Mongoose) / REST APIs   |
+|-------------------------|--------------------------------------------------------|
+|                         |                                                        |
+| Tools & Development     |  Git / ESLint /Multer / Axios                          |
+|-------------------------|--------------------------------------------------------|
+|                         |                                                        |
+| Deployment              |  GitHub Pages / Vercel / Firebase                      |
+|-------------------------|--------------------------------------------------------|
+| Authentifizierung       |                                                        |
+| & Sicherheit            |  JWT / bcryptjs / cookie-parser                        |
+|-------------------------|--------------------------------------------------------|
+| Mobile Development      |    React Native / React Navigation / Expo              |
+|                         |     Expo Router / NativeWind                           |
+|-------------------------|--------------------------------------------------------|
+| Third-Party             |                                                        |
+| Integrationen           |    Stripe / Cloudinary / Appwrite / Sentry             |
+|-------------------------|--------------------------------------------------------|
+
 
